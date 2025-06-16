@@ -1,5 +1,5 @@
 #
-The bank name is OMEGA BANK App
+THE BANK NAME IS OMEGA BANK App
 It has a home page where the user is authenticated through login, by inspiring their email and password 
 It account types are current and savings
 With both performing the functions:
